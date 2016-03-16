@@ -202,5 +202,6 @@ public class HTML_form_tests {
 		//double check we didn't select the same thing
 		assertTrue(dropDownIndex!=previouslySelectedIndex);
 		System.out.println("World");
+		System.out.println("Hello from Github!!!");
 	}	
 }
